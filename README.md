@@ -3,6 +3,7 @@
 
 Title|Duration|History|
 |-----|--------|-------|
+|[혼자 공부하는 컴퓨터 구조 + 운영체제 - 1:1 과외하듯 배우는 컴퓨터공학 자습서](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=193890896)|2023-03-13~2023-04-15  |[Issues link](https://github.com/wisdom08/book-review/issues?q=is%3Aissue+is%3Aclosed+milestone%3A%22혼자+공부하는+컴퓨터+구조%2B운영체제%22)|
 |[실리콘밸리의 팀장들 - 까칠한 인재마저 사로잡은 그들의 지독한 솔직함](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=193890896)|2023-03-08~2023-03-25  |[Issues link](https://github.com/wisdom08/book-review/issues?q=is%3Aissue+is%3Aclosed+milestone%3A%22실리콘밸리의+팀장들%22)|
 |[좋은 코드, 나쁜 코드 - 프로그래머의 코드 품질 개선법](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=294649282)|2023-01-07~2023-02-12  |[Issues link](https://github.com/wisdom08/book-review/issues?q=is%3Aissue+is%3Aclosed+milestone%3A%22좋은+코드%2C+나쁜+코드%22)|
 |[쏙쏙 들어오는 함수형 코딩 - 심플한 코드로 복잡한 소프트웨어 길들이기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292349292)|2023-01-14~2023-01-24  |[Issues link](https://github.com/wisdom08/book-review/issues?q=is%3Aissue+is%3Aclosed+milestone%3A%22쏙쏙+들어오는+함수형+코딩%22)|

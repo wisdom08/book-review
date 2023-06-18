@@ -3,7 +3,8 @@
 
 | Title                                          | Duration              | History                                                                                                                          |
 |------------------------------------------------|-----------------------|----------------------------------------------------------------------------------------------------------------------------------|
-| 자바의 신                     | 2023-04-27~2023-05-31 | [Directory link](https://github.com/wisdom08/book-review/tree/main/2023/god-of-java)                                             |
+| 모두의 네트워크 - 10일 만에 배우는 네트워크 (Network) 기초        | 2023-06-01~2023-06-18 | [Directory link](https://github.com/wisdom08/book-review/tree/main/2023/everyone's-network)                                      |
+| 자바의 신                                          | 2023-04-27~2023-05-31 | [Directory link](https://github.com/wisdom08/book-review/tree/main/2023/god-of-java)                                             |
 | 스프링 입문을 위한 자바 객체지향의 원리와 이해                     | 2023-04-28~2023-05-24 | [Directory link](https://github.com/wisdom08/book-review/tree/main/2023/principles-and-understanding-of-Java-object-orientation) |
 | 혼자 공부하는 컴퓨터 구조 + 운영체제 - 1:1 과외하듯 배우는 컴퓨터공학 자습서 | 2023-03-13~2023-04-15 | [Issues link](https://github.com/wisdom08/book-review/issues?q=is%3Aissue+is%3Aclosed+milestone%3A%22혼자+공부하는+컴퓨터+구조%2B운영체제%22)   |
 | 데이터베이스 첫걸음 - 완전 초보의 데이터베이스 따라잡기                | 2023-04-06~2023-04-14 | [Issues link](https://github.com/wisdom08/book-review/issues?q=is%3Aissue+milestone%3A%22데이터베이스+첫걸음%22+is%3Aclosed)              |
